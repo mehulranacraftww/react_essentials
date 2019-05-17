@@ -1,0 +1,122 @@
+
+@import 'https://fonts.googleapis.com/css?family=Roboto+Slab:400,300';
+
+.dd-banner-container .dd-banner-inner,
+.dd-banner-container .dd-banner-inner div,
+.dd-secondary .dd-banner-inner,
+.dd-secondary .dd-banner-inner div {
+  display: block;
+  zoom: 1;
+}
+
+body {
+  margin: 0;
+}
+.grid__container .grid__alias {padding: 0px !important;}
+.grid__alias {
+  padding: 0 30px;
+}
+/* After cwwbos_cre_content_1491478160 append _epochtimestamp*/
+
+.cwwbos_cre_content_1491478160 {
+  position: relative;
+  width: 100%;
+  min-width: 260px;
+  max-width: 1380px;
+  margin: 0 auto;
+  overflow: hidden;
+  background: #0e0000 url(images/tea_cocoa_1260x250.jpg) no-repeat;
+  background-size: 970px;
+  height: 360px;
+  background-position: right bottom;
+}
+
+.cwwbos_cre_content_1491478160 .cwwbos_text {
+  color: #ffffff;
+  font-family: 'Motiva Sans', Arial, sans-serif !important;
+  font-weight: 800;
+  font-size: 32px;
+  line-height: 1.3em;
+  padding: 35px 0px 0px 0px;
+  text-align: center;
+  width: 260px;
+  margin: 0 auto;
+}
+
+.cwwbos_cre_content_1491478160 a {
+  text-decoration: none !important;
+}
+
+@media only screen and (min-width: 480px) {}
+
+@media only screen and (min-width: 601px) {
+  .cwwbos_cre_content_1491478160 {
+    height: 220px;
+    background-position: 26% bottom;
+    background-size: 1110px;
+  }
+
+  .cwwbos_cre_content_1491478160 .cwwbos_text {
+    padding: 60px 0px 0px 3%;
+    text-align: left;
+    font-size: 30px;
+    width: 258px;
+    margin: 0;
+  }
+}
+
+@media only screen and (min-width: 720px) {
+
+  .cwwbos_cre_content_1491478160 {
+    height: 220px;
+    background-position: 40% bottom;
+    background-size: 1120px;
+  }
+
+}
+
+@media only screen and (min-width: 821px) {
+  .cwwbos_cre_content_1491478160 {
+    height: 220px;
+    background-position: 33% 0px;
+  }
+
+  .cwwbos_cre_content_1491478160 .cwwbos_text {
+    padding: 60px 0px 0px 3%;
+    text-align: left;
+    font-size: 36px;
+    width: 320px;
+    margin: 0;
+  }
+}
+
+@media only screen and (min-width: 1025px) {
+  .cwwbos_cre_content_1491478160 {
+    background: url(images/tea_cocoa_1512x250.jpg) right top no-repeat;
+    height: 250px;
+    background-position: 30% 0px;
+  }
+
+  .cwwbos_cre_content_1491478160 .cwwbos_text {
+    padding: 80px 0px 0px 3%;
+    width: 310px;
+    margin: 0;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .cwwbos_cre_content_1491478160 .cwwbos_text {
+    font-size: 44px;
+    padding: 70px 0px 0px 2%;
+    width: 370px;
+  }
+}
+
+@media only screen and (min-width: 1440px) {
+  .cwwbos_cre_content_1491478160 {
+    min-width: 1390px;
+    width: 1390px;
+    margin: 0 auto;
+
+  }
+}
